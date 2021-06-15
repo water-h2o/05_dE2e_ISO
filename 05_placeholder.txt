@@ -1,0 +1,5 @@
+* Along with the conversion from primary energy loss to number of drift electrons produced, (GITHUB CITATION) shows the procedure used for breaking up the output files with 100 deposition batches into single deposition files. --> 05_dE2e_ISO
+
+* Obtained drift electron yield function. (GITHUB CITATION) shows the used code. --> 05_dE2e_ISO
+
+* Obtained dNe (3)/d3. (GITHUB CITATION) shows the used code. --> 05_dE2e_ISO
